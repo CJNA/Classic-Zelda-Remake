@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7616883323774135711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7616883323774135705}
+  - component: {fileID: 7616883323774135704}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7616883323774135705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7616883323774135711}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 37.711185, y: 59.882267, z: -0.15492669}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7616883323774135704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7616883323774135711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b571ef2a43188794fb655b1383552c37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EffectsSource: {fileID: 0}
+  EnemyKill: {fileID: 0}
+  MusicSource: {fileID: 0}
+  rupee_collection_sound_clip: {fileID: 8300000, guid: 13ce3dbf51e43744f9a1fdc60303e86f,
+    type: 3}
+  restoring_heart_collection_sound_clip: {fileID: 8300000, guid: a76a83c392ee57a48bf0d8158c5f062b,
+    type: 3}
+  key_collection_sound_clip: {fileID: 8300000, guid: a499b55e04aae964da68ef5ed0c9996d,
+    type: 3}
+  danger_sound_clip: {fileID: 8300000, guid: 4f8863e3e1eca0f42a6f82dcf77e0735, type: 3}
+  bossAttack_sound_clip: {fileID: 8300000, guid: da8c33a2f4bf03d4ab1b39e679a23849,
+    type: 3}
+  swordAttack_sound_clip: {fileID: 8300000, guid: b07c990f3add7334b92d7690e730b4fe,
+    type: 3}
+  swordLaserAttack_sound_clip: {fileID: 8300000, guid: 746536c632a406748b7e2663e843acdd,
+    type: 3}
+  monsterDeath_sound_clip: {fileID: 8300000, guid: ebd472ccb1e7e9c4badc670e38120ba8,
+    type: 3}
+  underGroundBGM: {fileID: 8300000, guid: 612ce117be611374189143e908a1ee91, type: 3}
+  boomerangAttack_sound_clip: {fileID: 8300000, guid: 1c93d116397c88d47a1d3f8dbc500804,
+    type: 3}
+  obtainItem_sound_clip: {fileID: 8300000, guid: 44582d9bcf34dbe4486d0c5b88e9b57e,
+    type: 3}
+  roomClear_sound_clip: {fileID: 8300000, guid: db572f13bf9a60147af62261087546a1,
+    type: 3}
+  openLockedDoor_sound_clip: {fileID: 8300000, guid: f7d8c3beefdcb914b935b2edb180efc6,
+    type: 3}
+  beatTheDungeon_sound_clip: {fileID: 8300000, guid: 57f81ba3160b16142a8d9272c24dcccd,
+    type: 3}
+  playerPushed_sound_clip: {fileID: 8300000, guid: 8047ffc680070d642a8d2a27ba945b46,
+    type: 3}
+  dead_sound_clip: {fileID: 8300000, guid: 6dc61b7c51232bb4890b36cdabe705ce, type: 3}
+  bomb_sound_clip: {fileID: 8300000, guid: 3f170fc0866395a459f3387c6ab6f902, type: 3}

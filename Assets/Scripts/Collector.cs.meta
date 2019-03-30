@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f632899e59edc544ab6cd8bcec40793a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rupee_collection_sound_clip: {fileID: 8300000, guid: 13ce3dbf51e43744f9a1fdc60303e86f,
+      type: 3}
+  - restoring_heart_collection_sound_clip: {fileID: 8300000, guid: a76a83c392ee57a48bf0d8158c5f062b,
+      type: 3}
+  - key_collection_sound_clip: {fileID: 8300000, guid: a499b55e04aae964da68ef5ed0c9996d,
+      type: 3}
+  - inventory: {fileID: 7663690137043176102, guid: 235e00d7b51b183429f1b9cea8a7e1f7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

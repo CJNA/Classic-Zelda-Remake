@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5e2d92844d4e4a244929111da2e0f9f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dangerMusic: {fileID: 8300000, guid: 4f8863e3e1eca0f42a6f82dcf77e0735, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

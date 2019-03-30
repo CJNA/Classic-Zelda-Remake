@@ -1,0 +1,17 @@
+Portfolio URL: http://cjnagamedevportfolio.s3-website.us-east-2.amazonaws.com/
+
+The cheat is 4 to reach the custom Level
+
+Windows executable, Mac executable
+
+a. The enemy from the Fist of North Star Universe invaded the kingdom and Link must defeat them.
+However Link's conventional attack does not deal significant damage to enemy from different Universe.
+Kenshiro from Fist of North, somehow is fuses with Link and he aids Link by teaching him his art of North Star. 
+Link must use this technique in order to finish off Enemy more effectively and stop them from kidnapping Zelda 
+
+b. In Zelda : Fist of North Star, Link need to use the martial arts that Kenshiro taught him in order to completely defeat the enemy. Enemy loses HP upto certain point but won't die until Player completes the rhythm minigame to perform Hokutou-hakuretsu-ken (North Star 100 Fist) 
+
+c. This essentially adds new layer of combat because Player are encouraged to perform new techniques because Link's sword doesn't deal as much damage as it would have to the enemy of his own universe. So when trigger is occuring, Players are encouraged to approach the enemy and perform the martial art to defeat enemy more effectively, and eventually some enemy are impossible to beat without the techniuqe (They automatically heal themselves)
+
+d. The new mechanic is explained in the first two room, that in the first room, Link and Kenshiro would fight alongside each other, and Kenshiro would perform the art. In the second room, there is 6 enemies, to practice arts, and player is encourgaed to utilize this. Link need to proceed by beating all the enemies, and eventually perform increasingly harder (Faster) 
+
